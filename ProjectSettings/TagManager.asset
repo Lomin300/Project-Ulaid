@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boss
+  - BossPos
+  - PlayerPos
+  - PlayerDead
+  - InventorySlot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - PostProcessingVolumes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1. BackGround
+    uniqueID: 3790885525
+    locked: 0
+  - name: 2. UpsideBackGround
+    uniqueID: 1264526383
+    locked: 0
+  - name: 3. BacksideGround
+    uniqueID: 2986122055
+    locked: 0
+  - name: 4. Ground
+    uniqueID: 3528639877
+    locked: 0
+  - name: 5. UpsideGround
+    uniqueID: 2151659505
+    locked: 0
+  - name: 6. BacksideUnit
+    uniqueID: 4007429187
+    locked: 0
+  - name: 7. Unit
+    uniqueID: 2115527733
+    locked: 0
+  - name: 8. Player
+    uniqueID: 2573841307
+    locked: 0
+  - name: 9. UpsidePlayer
+    uniqueID: 1003846749
+    locked: 0
+  - name: 10. Fog
+    uniqueID: 2132423391
+    locked: 0
+  - name: 11. BacksideUI
+    uniqueID: 3594403953
+    locked: 0
+  - name: 12. UI
+    uniqueID: 891679505
+    locked: 0
+  - name: 13. UpsideUI
+    uniqueID: 2388766519
+    locked: 0
